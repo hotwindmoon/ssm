@@ -1,0 +1,42 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+### Java template
+*.class
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+.logs/*
+**/*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+target
+.DS_Store
+exports
+*.zip
+*.tar
+*.tar.gzs
+
+# virtual machine crash logs, see
+http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+.tags
+.tags_sorted_by_file
+
+/src/main/resources/jdbc.properties
+/src/main/resources/spring-mybatis.xml
